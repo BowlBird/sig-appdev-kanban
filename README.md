@@ -5,7 +5,7 @@ What I want from you
 
 Only use this repo if you are stuck! It's best to learn by just trying to get through this.
 
-I want you to make a tip calculator app that
+I want you to make a kanban app that
 
 - Supports 3 Categories, TODO, DOING, and DONE
 - You can add to any of the categories, delete any entry, or move entries to different categories
